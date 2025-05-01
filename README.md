@@ -100,10 +100,9 @@ Top 10 High-Rated Game Recommendations:
 
 ## 📸 Screenshot
 
-
-
-
 ![App Demo](https://i.imgur.com/i8YeOiP.png)
+
+![App Demo](https://i.imgur.com/TSHgdrP.png)
 
 
 
