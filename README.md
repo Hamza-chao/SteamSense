@@ -102,9 +102,8 @@ Top 10 High-Rated Game Recommendations:
 
 
 ```markdown
-![App Demo]([Imgur](https://imgur.com/dEIYutK))
 
-![App Demo]([[Imgur](https://imgur.com/dEIYutK))
+https://imgur.com/a/YRRZC4f
 
 ```
 
