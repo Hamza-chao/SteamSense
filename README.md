@@ -101,11 +101,11 @@ Top 10 High-Rated Game Recommendations:
 ## 📸 Screenshot
 
 
-```markdown
+
 
 ![App Demo](https://i.imgur.com/i8YeOiP.png)
 
-```
+
 
 ---
 
