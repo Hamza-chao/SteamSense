@@ -28,7 +28,6 @@
 
 ```
 SteamSense/
-├── __pycache__/               # Python bytecode cache
 ├── config.py                  # Stores your RAWG API key
 ├── rawg_full.parquet          # Cached RAWG dataset for faster loading
 ├── recommender.py             # Main Streamlit application
