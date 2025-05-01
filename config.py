@@ -1,0 +1,2 @@
+# config.py
+RAWG_API_KEY = "3c9128db8789494285601ac4fde94326"
