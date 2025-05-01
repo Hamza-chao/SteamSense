@@ -40,7 +40,7 @@ SteamSense/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/SteamSense.git
+git clone https://github.com/Hamza-chao/SteamSense.git
 cd SteamSense
 ```
 
