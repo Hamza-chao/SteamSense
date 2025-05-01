@@ -100,10 +100,10 @@ Top 10 High-Rated Game Recommendations:
 
 ## 📸 Screenshot
 
-> _(Optional - add your Streamlit app UI screenshot here)_
 
 ```markdown
-![App Screenshot](demo.png)
+![App Demo](https://imgur.com/i8YeOiP)
+![App Demo](https://imgur.com/i8YeOiP)
 ```
 
 ---
