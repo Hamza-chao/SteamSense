@@ -50,12 +50,6 @@ cd SteamSense
 pip install streamlit pyspark pandas numpy sentence-transformers scikit-learn requests
 ```
 
-Or generate a `requirements.txt`:
-
-```bash
-pip freeze > requirements.txt
-```
-
 ### 3. Add your API key
 
 Create a file named `config.py`:
