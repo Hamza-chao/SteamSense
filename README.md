@@ -80,7 +80,7 @@ streamlit run recommender.py
 
 ---
 
-## 🔍 Example Output
+##  Example Output
 
 ```text
 Top 10 High-Rated Game Recommendations:
@@ -92,7 +92,7 @@ Top 10 High-Rated Game Recommendations:
 
 ---
 
-## 📸 Screenshot
+##  Screenshot
 
 ![App Demo](https://i.imgur.com/i8YeOiP.png)
 
