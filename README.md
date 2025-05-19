@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. **Steam Game Fetching**:  
    Enter your **SteamID64** to fetch your publicly owned games and playtime via Steam XML API.
@@ -24,7 +24,7 @@
 
 ---
 
-## 📂 File Structure
+##  File Structure
 
 ```
 SteamSense/
@@ -59,7 +59,7 @@ Create a file named `config.py`:
 RAWG_API_KEY = "your_rawg_api_key_here"
 ```
 
-> 🔐 Your Steam profile **must be public** to fetch owned games.
+>  Your Steam profile **must be public** to fetch owned games.
 
 ### 4. Run the app
 
@@ -69,14 +69,14 @@ streamlit run recommender.py
 
 ---
 
-## 💡 Features
+##  Features
 
-- ✅ Supports SteamID64 for automatic game fetching
-- ✅ RAWG API integration with Spark caching to `rawg_full.parquet`
-- ✅ Game vectorization using `SentenceTransformer`
-- ✅ Personalized recommendations using cosine similarity
-- ✅ Filters games based on rating and playtime
-- ✅ Beautiful and responsive UI with Streamlit
+-  Supports SteamID64 for automatic game fetching
+-  RAWG API integration with Spark caching to `rawg_full.parquet`
+-  Game vectorization using `SentenceTransformer`
+-  Personalized recommendations using cosine similarity
+-  Filters games based on rating and playtime
+-  Beautiful and responsive UI with Streamlit
 
 ---
 
@@ -102,7 +102,7 @@ Top 10 High-Rated Game Recommendations:
 
 ---
 
-## 📜 License
+##  License
 
 MIT License © 2025 [Hamza Chao](https://github.com/Hamza-chao)
 
